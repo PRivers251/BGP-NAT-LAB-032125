@@ -61,7 +61,7 @@ This lab demonstrates how to configure BGP peering between multiple Autonomous S
 ## 📺 YouTube Video
 
 Watch the full walkthrough including config, NAT demo, packet capture, and real-world troubleshooting:
-**[YouTube Video Link Placeholder]**
+**[YouTube](https://www.youtube.com/watch?v=0aLSPyd1_pA)**
 
 ---
 
